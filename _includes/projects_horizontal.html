@@ -1,0 +1,19 @@
+<div class="col-md-12">
+    <h4 class = "category">
+        {%- if project.redirect -%}
+        <a href="{{ project.redirect }}">
+        {%- else -%}
+        <a href="{{ project.url | relative_url }}">
+        {%- endif -%}
+            {{ project.title }}
+        </a>
+    </h4>
+    <p>
+        <ul>
+        {% for content in project.contents %}
+          <li style="padding-bottom: 0.3em">{{ content }}</li>
+        {% endfor %}
+    </ul>
+    </p>
+    <p>{{ project.description }}</p>
+</div>
