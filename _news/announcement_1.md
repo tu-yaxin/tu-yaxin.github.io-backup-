@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-09-09
+date: 2022-09-29
 inline: true
 ---
 
-I got [Yao Award](https://iiis.tsinghua.edu.cn/en/list-673-1.html) :smile: [Here](assets/img/yao_award.jpg) is a picture of the ceremony.
+I'm TAing <i>Secure Multiparty Computation</i> given by Yifan Song next semester!
