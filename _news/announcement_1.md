@@ -4,4 +4,4 @@ date: 2022-09-29
 inline: true
 ---
 
-I'm TAing <i>Secure Multiparty Computation</i> given by Yifan Song next semester!
+I'm TAing Secure Multiparty Computation given by Yifan Song next semester!
