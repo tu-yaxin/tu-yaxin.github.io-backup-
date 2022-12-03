@@ -2,19 +2,18 @@
   type: map
   contents:
     - name: Name
-      value: Zihan Hu
+      value: Yaxin Tu
     - name: Email
-      value: <a href='mailto:huzh19@mails.tsinghua.edu.cn'>huzh19@mails.tsinghua.edu.cn</a>
-
+      value: <a href='mailto:tyx0001ash@gmail.com'>tyx0001ash@gmail.com</a>
 - title: Education
   type: time_table
   contents:
     - title: Bachelor in Computer Science
-      institution: Tsinghua University, Beijing, China
+      institution: Yao Class, Tsinghua University, Beijing, China
       year: 2019 - Present
       description:
-        - GPA 3.97/4.00, Rank 1/30.
-        - TOEFL 106 (Speaking 25), GRE 331 (Verbal 161).
+        - GPA 3.86/4.0
+        - TOEFL 109 (Speaking 25). 
 
 - title: Experience
   type: time_table
