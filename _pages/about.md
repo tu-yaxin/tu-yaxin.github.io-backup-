@@ -6,7 +6,7 @@ subtitle: >
   <p>(In Chinese: <span lang = 'zh-Hans'> 涂雅欣 </span>, <a href="" onclick="$('#pronounce').toggle(); return false;">how to pronounce</a>)</p>
   <div id="pronounce" style="display:none;" class="alert">
       <audio controls>
-          <source src="assets/audio/zihan.mp3" type="audio/mpeg">
+          <source src="assets/audio/yaxin.mp3" type="audio/mpeg">
       </audio>
   </div>
 
@@ -20,12 +20,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}" U
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a final-year undergraduate at [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/) (known as [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/)), [Tsinghua University](https://www.tsinghua.edu.cn/en/). **I am applying for PhD programs this year.**
+I am a senior undergraduate at [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/) (also [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/)), [Tsinghua University](https://www.tsinghua.edu.cn/en/). **I am applying for Ph.D. programs this year.**
 
-My research interests ...
+I’m broadly interested in theoretical computer science, with a focus on cryptography and its interplay with other fields.
 
-During my undergraduate, I was fortunate to be advised by [Prof. Yilei Chen](http://www.chenyilei.net/).
-
-During the Spring and Summer of 2022, I was fortunate to...
-
+During my undergraduate, I am fortunate to be advised by great people. 
+I was fortunate to be advised by [Prof. Yilei Chen](http://www.chenyilei.net/) who sparked my interest in cryptography. 
+During the first half of 2022 I spent an awesome time working with [Prof. Elette Boyle](https://www.cs.idc.ac.il/~elette/) in Reichman University in Israel and in NTT Reseach. It was also my privilege to meet [Prof. Yuval Ishai](https://yuvali.cswp.cs.technion.ac.il/) in both places and have inspiring talks with him. 
+It was my privilege to talk to and learn a great deal from [Prof. Johan van Benthem](https://staff.fnwi.uva.nl/j.vanbenthem/) who sparked my interest in logic. Working with [Prof. Fenrong Liu](http://www.fenrong.net/) and [Prof. Sujata Ghosh](https://www.isichennai.res.in/~sujata/) to explore special modal logics was a great experience for me. 
 Email: [tyx0001ash@gmail.com](mailto:tyx0001ash@gmail.com)
