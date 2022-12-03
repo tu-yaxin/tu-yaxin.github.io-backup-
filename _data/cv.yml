@@ -2,51 +2,50 @@
   type: map
   contents:
     - name: Name
-      value: Zihan Hu
+      value: Yaxin Tu
     - name: Email
-      value: <a href='mailto:huzh19@mails.tsinghua.edu.cn'>huzh19@mails.tsinghua.edu.cn</a>
+      value: <a href='mailto:tyx0001ash@gmail.com'>tyx0001ash@gmail.com</a>
 
 - title: Education
   type: time_table
   contents:
     - title: Bachelor in Computer Science
-      institution: Tsinghua University, Beijing, China
+      institution: Yao Class, Tsinghua University, Beijing, China
       year: 2019 - Present
       description:
-        - GPA 3.97/4.00, Rank 1/30.
-        - TOEFL 106 (Speaking 25), GRE 331 (Verbal 161).
+        - GPA 3.86/4.0
+        - TOEFL 109 (Speaking 25). 
 
-- title: Experience
+- title: Research Experience
   type: time_table
-  contents:
-    - title: Research Intern
-      institution: University of California, Santa Barbara (Remote)
+  contents:    
+  - title: Research Intern
+      institution: <a href='http://tsinghualogic.net/JRC/'>Tsinghua University – University of Amsterdam Joint Research Centre for Logic</a>
       year: 2022
       description:
-        - Advised by <a href='https://sites.google.com/site/prabhanjanva'>Prof. Prabhanjan Ananth</a> and <a href='http://www.henryyuen.net/'>Prof. Henry Yuen</a>.
-        - Worked on black-box separation for quantum money.
+        - Currently Exploring the extension of basic modal logic with an iterative substitution operator. 
+        - Advised by <a href='https://staff.fnwi.uva.nl/j.vanbenthem/'>Prof. Johan van Benthem</a>, <a href='http://www.fenrong.net/'>Prof. Fenrong Liu</a> and <a href='https://www.isichennai.res.in/~sujata/'>Prof. Sujata Ghosh</a>. 
+    - title: Research Intern
+      institution: <a href='https://www.factcenter.org/'>FACT center</a>, IDC Herzliya
+      year: 2022
+      description:
+        - Worked on function secret sharing for multipoint functions. 
+        - Collaborated with <a href='https://cs.idc.ac.il/~elette/'>Prof. Elette Boyle</a>, <a href='https://yuvali.cswp.cs.technion.ac.il/'>Prof. Yuval Ishai</a> and <a href='https://www.bgu.ac.il/~gilboan/'>Dr. Niv Gilboa</a>.
     - title: Research Intern
       institution: Tsinghua University
       year: 2021
       description:
-        - Advised by <a href='http://www.chenyilei.net/'>Prof. Yilei Chen</a>. 
-        - Worked on quantum algorithm for lattice problems.
+        - Tried to solve standard lattice problems via quantum algorithms.
+        - Collaborated with <a href='http://www.chenyilei.net/'>Prof. Yilei Chen</a>, <a href='hhttps://sites.google.com/view/qipengliu'>Dr. Qipeng Liu</a> and <a href='https://zihanhu.cn/'>Zihan Hu</a>. 
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2022
       items:
-        - Yao Award, Recognition Prize, <i>Institute for Interdisciplinary Information Sciences</i>
-    - year: 2021
-      items:
-        - Comprehensive Excellence Scholarship, <i>Tsinghua University</i>
-    - year: 2020
-      items:
-        - Academic Excellence Scholarship, <i>Tsinghua University</i>
-        - Sports Excellence Scholarship, <i>Tsinghua University</i>
+        - Science and Technology Innovation Merit Scholarship, <i>Institute for Interdisciplinary Information Sciences</i>
     - year: 2018
       items:
-        - Chinese Mathematical Olympiad, Silver Medal, <i>Chinese Mathematical Society</i>
-        - Chinese Girls' Mathematical Olympiad, Gold Medal, <i>Chinese Mathematical Society</i>
+        - Chinese Mathematical Olympiad, Gold Medal, <i>Chinese Mathematical Society</i>
+        - Chinese Women’s Mathematical Olympiad, Gold Medal, <i>Chinese Mathematical Society</i>
 
