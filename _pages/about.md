@@ -3,13 +3,12 @@ layout: about
 title: About me
 permalink: /
 subtitle: >
-  <p>(In simplified Chinese: <span lang = 'zh-Hans'> 涂雅欣 </span>, <a href="" onclick="$('#pronounce').toggle(); return false;">how to pronounce</a>)</p>
+  <p>(In simplified Chinese: <span lang = 'zh-Hans'> 涂雅欣 </span>, <a href="" onclick="$('#pronounce').toggle(); return false;">how to pronounce</a>)<br>Email: <a href="mailto:tyx0001ash@gmail.com>tyx0001ash@gmail.com</a></br></p>
   <div id="pronounce" style="display:none;" class="alert">
       <audio controls>
           <source src="assets/audio/yaxin.mp3" type="audio/mpeg">
       </audio>
   </div>
-  <p>Email: <a href="mailto:tyx0001ash@gmail.com>tyx0001ash@gmail.com</a></p>
 
 profile:
   align: right
