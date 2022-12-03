@@ -11,21 +11,23 @@ subtitle: >
   </div>
 
 profile:
-  align: right
+  align: left
   image: pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}" Used for Publication now
 social: false  # includes social icons at the bottom of the page
 ---
+Email: [tyx0001ash@gmail.com](mailto:tyx0001ash@gmail.com)
 
 I am a senior undergraduate at [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/) (also [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/)), [Tsinghua University](https://www.tsinghua.edu.cn/en/). **I am applying for Ph.D. programs this year.**
 
 I’m broadly interested in theoretical computer science, with a focus on cryptography and its interplay with other fields.
 
 During my undergraduate, I am fortunate to be advised by great people. 
-I was fortunate to be advised by [Prof. Yilei Chen](http://www.chenyilei.net/) who sparked my interest in cryptography. 
-During the first half of 2022 I spent an awesome time working with [Prof. Elette Boyle](https://www.cs.idc.ac.il/~elette/) in Reichman University in Israel and in NTT Reseach. It was also my privilege to meet [Prof. Yuval Ishai](https://yuvali.cswp.cs.technion.ac.il/) in both places and have inspiring talks with him. 
-It was my privilege to talk to and learn a great deal from [Prof. Johan van Benthem](https://staff.fnwi.uva.nl/j.vanbenthem/) who sparked my interest in logic. Working with [Prof. Fenrong Liu](http://www.fenrong.net/) and [Prof. Sujata Ghosh](https://www.isichennai.res.in/~sujata/) to explore special modal logics was a great experience for me. 
-Email: [tyx0001ash@gmail.com](mailto:tyx0001ash@gmail.com)
+<ul>
+<li>I was fortunate to be advised by [Prof. Yilei Chen](http://www.chenyilei.net/) who sparked my interest in cryptography. </li>
+<li>During the first half of 2022 I spent an awesome time working with [Prof. Elette Boyle](https://www.cs.idc.ac.il/~elette/) in Reichman University in Israel and in NTT Reseach. It was also my privilege to meet [Prof. Yuval Ishai](https://yuvali.cswp.cs.technion.ac.il/) in both places and have inspiring talks with him. </li>
+<li>It was my privilege to talk to and learn a great deal from [Prof. Johan van Benthem](https://staff.fnwi.uva.nl/j.vanbenthem/) who sparked my interest in logic. Working with [Prof. Fenrong Liu](http://www.fenrong.net/) and [Prof. Sujata Ghosh](https://www.isichennai.res.in/~sujata/) to explore special modal logics was a great experience for me. </li>
+</ul>
